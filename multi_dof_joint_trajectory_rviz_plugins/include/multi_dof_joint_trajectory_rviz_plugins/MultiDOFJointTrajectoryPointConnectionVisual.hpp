@@ -2,7 +2,7 @@
 
 #include <OGRE/OgreSceneManager.h>
 #include <OGRE/OgreSceneNode.h>
-#include <OGRE/OgreVector3.h>
+#include <OGRE/Ogre.h>
 
 #include <rviz/ogre_helpers/line.h>
 #include <rviz/ogre_helpers/movable_text.h>

@@ -29,7 +29,7 @@
 
 #include <OGRE/OgreSceneManager.h>
 #include <OGRE/OgreSceneNode.h>
-#include <OGRE/OgreVector3.h>
+#include <OGRE/Ogre.h>
 
 #include <rviz/ogre_helpers/arrow.h>
 #include <rviz/ogre_helpers/billboard_line.h>
