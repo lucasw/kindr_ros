@@ -7,7 +7,6 @@
 #include <kindr_msgs/VectorAtPosition.h>
 
 namespace Ogre {
-class Vector3;
 class Quaternion;
 }  // namespace Ogre
 
