@@ -180,5 +180,5 @@ void VectorAtPositionDisplay::processMessage(const kindr_msgs::VectorAtPosition:
 
 // Tell pluginlib about this class. It is important to do this in
 // global scope, outside our package's namespace.
-#include <pluginlib/class_list_macros.h>
+#include <pluginlib/class_list_macros.hpp>
 PLUGINLIB_EXPORT_CLASS(kindr_rviz_plugins::VectorAtPositionDisplay, rviz::Display)

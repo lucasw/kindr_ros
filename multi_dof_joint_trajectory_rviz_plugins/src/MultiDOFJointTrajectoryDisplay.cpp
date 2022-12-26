@@ -480,5 +480,5 @@ void MultiDOFJointTrajectoryDisplay::updateShowText() {
 
 }  // namespace multi_dof_joint_trajectory_rviz_plugins
 
-#include <pluginlib/class_list_macros.h>
+#include <pluginlib/class_list_macros.hpp>
 PLUGINLIB_EXPORT_CLASS(multi_dof_joint_trajectory_rviz_plugins::MultiDOFJointTrajectoryDisplay, rviz::Display)
